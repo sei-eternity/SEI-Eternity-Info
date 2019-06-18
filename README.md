@@ -74,3 +74,34 @@ Curriculum schedule is subject to change at instructor's discretion.
 1|1| NA | [Installfest](https://github.com/sei-eternity/installfest)|[CLI](https://github.com/sei-eternity/lesson-w01d01-cli)||[CLI Homework](https://github.com/sei-eternity/hw-w01d01-cli)
 1|2| NA |[Git](https://github.com/sei-eternity/lesson-w01-d02-git)|[JS Intro](https://github.com/sei-eternity/lesson-w01-d02-javascript-intro)||[JS Intro Homework](https://github.com/sei-eternity/hw-w01-d02-javascript-intro)
 1|3| [Raindrops](https://github.com/sei-eternity/warmup-w01-d03-raindrops)|[JS Functions](https://github.com/sei-eternity/lesson-w01d03-js-functions)
+
+## Projects 
+Student Name | Project 1 | Project 2
+-- | -- | --
+Abdullah	Altwaim |
+Abdulrahman	Alrifae |
+Aesha	Alshuraim |
+Ahlam	Almusallam |
+Ahmed	Al-Bahrani |
+Ahmed	AlMeshaal |
+Ashwag	Alrougui |
+Azzam	Alkhaldi |
+Bedour	Alrashed |
+Eman	Yahya |
+Faisal	Alsharari |
+Hanan	Alharbi |
+Hazim	Alblowi |
+Khalid	alarifi |
+Mansour	Almohsen |
+Mo	Asslahi |
+Moodhi	Almutairi |
+Munira	AlShuhail |
+Munirah	almadhi |
+Nada	Alotaibi |
+nawaf	almansour |
+Norah	Alessa |
+Reem	AlHarbi |
+sara	daghustani |
+Sulaiman	Alhabib |
+Turki	Almalki |
+Waleed	Mastour |
