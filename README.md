@@ -7,17 +7,18 @@ Hi folks, Welcome to SEI. This repository contains information, HW,  Assignments
 # Important links 
 - [Exit Ticket](https://docs.google.com/forms/d/e/1FAIpQLScDFoOL9dfqc3_Z5YP4mdqAINofM8ouA8yOYM17EFC7nNnQ9A/viewform) (complete at the end of Thursday class each week)
 
-## Hours
+## Schedule
 
-**Sun - Thurs 9am - 5pm class**
+|| Days | Time
+-- | -- | --
+Class | Sun - Thurs | 9am - 5pm 
+Office Hours | Tuesday | 5pm - 7pm
 
->12pm - 1pm lunch 
-
->3pm - 3:30pm break
-
-**Tuesday 5pm - 7pm office hours**
-
->Hajj vacation is from 11/08 - 15/08
+| | Breaks 
+-- | -- 
+Lunch | 12pm - 1pm 
+Prayer | 3pm - 3:30pm 
+Hajj vacation | from 11/08 - 15/08
 
 ## Instructional Team
 - **Usman Bashir** (Lead Instructor)
