@@ -22,14 +22,13 @@ Hajj vacation | from 11/08 - 15/08
 
 ## Instructional Team
 - **Usman Bashir** (Lead Instructor)
-  - [usman.bashir@generalassemb.ly](mailto:usman.bashir@generalassemb.ly)
+
 
 - **Marc Wright** (Lead Instructor)
-  - [marc.wright@generalassemb.ly](mailto:marc.wright@generalassemb.ly)
+  
 
 - **Alanoud Alrasheed** (Instructional Associate)
-  - [alanoud.alrasheed@generalassemb.ly](mailto:alanoud.alrasheed@generalassemb.ly)
-
+ 
 
 
 ## Curriculum Overview
@@ -41,14 +40,14 @@ Curriculum schedule is subject to change at instructor's discretion.
 | Week  | Topics |
 | ----- | ------ |
 | 1  | Command Line, Git, Javascript  |
-| 2  | HTML, CSS, Responsive|
+| 2  | HTML, CSS, DOM, jQuery|
 | 3  | Project 1  |
 
 ### Unit 2 (Back End Web Development)
 
 | Week  | Topics |
 | ----- | ------ |
-| 4  | Ruby, SQL, Git Workflow |
+| 4  | Ruby, SQL,  |
 | 5  | Ruby on Rails, Bootstrap, Authentication  |
 | 6  | Project 2 |
 
@@ -56,7 +55,7 @@ Curriculum schedule is subject to change at instructor's discretion.
 
 | Week  | Topics |
 | ----- | ------ |
-| 7  | ES6, AJAX  |
+| 7  | Git Workflow, ES6, AJAX  |
 | 8  | Node, React  |
 | 9  | Project 3 |
 
