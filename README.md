@@ -74,6 +74,8 @@ Curriculum schedule is subject to change at instructor's discretion.
 1|1| NA | [Installfest](https://github.com/sei-eternity/installfest)|[CLI](https://github.com/sei-eternity/lesson-w01d01-cli)||[CLI Homework](https://github.com/sei-eternity/hw-w01d01-cli)
 1|2| NA |[Git](https://github.com/sei-eternity/lesson-w01-d02-git)|[JS Intro](https://github.com/sei-eternity/lesson-w01-d02-javascript-intro)||[JS Intro Homework](https://github.com/sei-eternity/hw-w01-d02-javascript-intro)
 1|3| [Raindrops](https://github.com/sei-eternity/warmup-w01-d03-raindrops)|[JS Functions](https://github.com/sei-eternity/lesson-w01d03-js-functions)|||[JS Function Homework](https://github.com/sei-eternity/hw-w01d03-js-functions)
+1|4|[Leap Year](https://github.com/sei-eternity/warmup-w01-d04-leapyear)|[JS Arrays](https://github.com/sei-eternity/lesson-w01-d04-js-arrays)|[JS Loops](https://github.com/sei-eternity/lesson-w01-d04-js-loops)||[JS Arrays Homework](https://github.com/sei-eternity/hw-w01-d04-js-arrays)
+1|5|[Count/Sum](https://github.com/sei-eternity/warmup-w01-d05-arrays)|[JS Objects](https://github.com/sei-eternity/lesson-w01-d05-js-objects)|||[MBTA](https://github.com/sei-eternity/hw-w01-d05-js-mbta)
 
 ## Projects 
 Student Name | Project 1 | Project 2
