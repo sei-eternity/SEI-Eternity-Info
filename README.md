@@ -76,6 +76,48 @@ Curriculum schedule is subject to change at instructor's discretion.
 1|3| [Raindrops](https://github.com/sei-eternity/warmup-w01-d03-raindrops)|[JS Functions](https://github.com/sei-eternity/lesson-w01d03-js-functions)|||[JS Function Homework](https://github.com/sei-eternity/hw-w01d03-js-functions)
 1|4|[Leap Year](https://github.com/sei-eternity/warmup-w01-d04-leapyear)|[JS Arrays](https://github.com/sei-eternity/lesson-w01-d04-js-arrays)|[JS Loops](https://github.com/sei-eternity/lesson-w01-d04-js-loops)||[JS Arrays Homework](https://github.com/sei-eternity/hw-w01-d04-js-arrays)
 1|5|[Count/Sum](https://github.com/sei-eternity/warmup-w01-d05-arrays)|[JS Objects](https://github.com/sei-eternity/lesson-w01-d05-js-objects)|||[MBTA](https://github.com/sei-eternity/hw-w01-d05-js-mbta)
+-|-|-|-|-|-|-
+2|1|[Scrabble](https://github.com/sei-eternity/warmup-w02-d01-scrabble)|[HTML and CSS](https://github.com/sei-eternity/lesson-w02-d01-html-css)|[CSS Position](https://github.com/sei-eternity/lesson-w02-d01-css-position)|[Lab](https://github.com/sei-eternity/lab-w02-d01-website)|[HTML & CSS](https://github.com/sei-eternity/hw-w02-d01-html-css)
+2|2|[HTML & CSS](https://github.com/sei-eternity/warmup-w02-d02-HTML-and-CSS)|[Flexbox](https://github.com/sei-eternity/lesson-w02d02-flexbox)|[Responsive](https://github.com/sei-eternity/lesson-w02d02-responsive-design)||[Responsive HW](https://github.com/sei-eternity/hw-w02d02-responsive-design-007)
+2|3|[JS Kahoot]()|[DOM](https://github.com/sei-eternity/lesson-w02d03-dom)|||[]()
+2|4|[]()|[]()|||[]()
+2|5|[]()|[]()|||[]()
+<!-- -|-|-|-|-|-|-
+4|1|[]()|[]()|||[]()
+4|2|[]()|[]()|||[]()
+4|3|[]()|[]()|||[]()
+4|4|[]()|[]()|||[]()
+4|5|[]()|[]()|||[]() -->
+<!-- -|-|-|-|-|-|-
+5|1|[]()|[]()|||[]()
+5|2|[]()|[]()|||[]()
+5|3|[]()|[]()|||[]()
+5|4|[]()|[]()|||[]()
+5|5|[]()|[]()|||[]() -->
+<!-- -|-|-|-|-|-|-
+7|1|[]()|[]()|||[]()
+7|2|[]()|[]()|||[]()
+7|3|[]()|[]()|||[]()
+7|4|[]()|[]()|||[]()
+7|5|[]()|[]()|||[]() -->
+<!-- -|-|-|-|-|-|-
+8|1|[]()|[]()|||[]()
+8|2|[]()|[]()|||[]()
+8|3|[]()|[]()|||[]()
+8|4|[]()|[]()|||[]()
+8|5|[]()|[]()|||[]() -->
+<!-- -|-|-|-|-|-|-
+10|1|[]()|[]()|||[]()
+10|2|[]()|[]()|||[]()
+10|3|[]()|[]()|||[]()
+10|4|[]()|[]()|||[]()
+10|5|[]()|[]()|||[]() -->
+<!-- -|-|-|-|-|-|-
+11|1|[]()|[]()|||[]()
+11|2|[]()|[]()|||[]()
+11|3|[]()|[]()|||[]()
+11|4|[]()|[]()|||[]()
+11|5|[]()|[]()|||[]() -->
 
 ## Projects 
 Student Name | Project 1 | Project 2
@@ -107,3 +149,8 @@ sara	daghustani |
 Sulaiman	Alhabib |
 Turki	Almalki |
 Waleed	Mastour |
+
+<!-- ### Group Projects
+
+Group Name| Student One | Student Two | Student Three | Project
+---|---|---|---|-- -->
