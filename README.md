@@ -83,7 +83,7 @@ Curriculum schedule is subject to change at instructor's discretion.
 2|4|[MBTA Review](https://github.com/sei-eternity/warmup-w02-d04-MBTA)|[DOM cont](https://github.com/sei-eternity/lesson-w02d03-dom)|[Jquery]()||[DOM Homework Cont](https://github.com/sei-eternity/hw-w02d03-dom)
 2|5|[Game of Zones](https://github.com/sei-eternity/warmup-w02-d05-game-of-zones)|[Wireframes](https://github.com/sei-eternity/lesson-week_02-day_02-wireframes-user-stories)|||[Project 1](https://github.com/sei-eternity/project-1-prompt)
 -|-|-|-|-|-|-
-4|1|[Installing Ruby](https://github.com/sei-eternity/lesson-w04d01-ruby/blob/master/install-ruby.md)|[Ruby](https://github.com/sei-eternity/lesson-w04d01-ruby)|[Ruby Array & Hashes](https://github.com/sei-eternity/hw-w04d01-ruby-arrays-hashes)|[Ruby Methods](https://github.com/sei-eternity/lesson-w04d01-ruby-methods)|[]()
+4|1|[Installing Ruby](https://github.com/sei-eternity/lesson-w04d01-ruby/blob/master/install-ruby.md)|[Ruby](https://github.com/sei-eternity/lesson-w04d01-ruby)|[Ruby Methods](https://github.com/sei-eternity/lesson-w04d01-ruby-methods)||[Ruby Arrays & Hashes](https://github.com/sei-eternity/hw-w04d01-ruby-arrays-hashes)
 <!-- 4|2|[]()|[]()|||[]()
 4|3|[]()|[]()|||[]()
 4|4|[]()|[]()|||[]()
