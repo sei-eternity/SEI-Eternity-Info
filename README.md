@@ -121,9 +121,9 @@ Curriculum schedule is subject to change at instructor's discretion.
 
 ## Projects 
 
-Project Prompts |
---
-[Project One](https://github.com/sei-eternity/project-1-prompt)|
+| Project Prompts |
+| -- |
+| [Project One](https://github.com/sei-eternity/project-1-prompt)|
 
 ---
 
