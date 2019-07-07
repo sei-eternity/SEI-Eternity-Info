@@ -79,12 +79,12 @@ Curriculum schedule is subject to change at instructor's discretion.
 -|-|-|-|-|-|-
 2|1|[Scrabble](https://github.com/sei-eternity/warmup-w02-d01-scrabble)|[HTML and CSS](https://github.com/sei-eternity/lesson-w02-d01-html-css)|[CSS Position](https://github.com/sei-eternity/lesson-w02-d01-css-position)|[Lab](https://github.com/sei-eternity/lab-w02-d01-website)|[HTML & CSS](https://github.com/sei-eternity/hw-w02-d01-html-css)
 2|2|[HTML & CSS](https://github.com/sei-eternity/warmup-w02-d02-HTML-and-CSS)|[Flexbox](https://github.com/sei-eternity/lesson-w02d02-flexbox)|[Responsive](https://github.com/sei-eternity/lesson-w02d02-responsive-design)||[Responsive HW](https://github.com/sei-eternity/hw-w02d02-responsive-design-007)
-2|3|[JS Kahoot]()|[DOM](https://github.com/sei-eternity/lesson-w02d03-dom)|||[]()
-2|4|[]()|[]()|||[]()
-2|5|[]()|[]()|||[]()
-<!-- -|-|-|-|-|-|-
-4|1|[]()|[]()|||[]()
-4|2|[]()|[]()|||[]()
+2|3|[JS Kahoot](https://create.kahoot.it/details/285c3dd8-f430-4c12-b79f-9555f043b95d)|[DOM](https://github.com/sei-eternity/lesson-w02d03-dom)|||[DOM Homework](https://github.com/sei-eternity/hw-w02d03-dom)
+2|4|[MBTA Review](https://github.com/sei-eternity/warmup-w02-d04-MBTA)|[DOM cont](https://github.com/sei-eternity/lesson-w02d03-dom)|[Jquery]()||[DOM Homework Cont](https://github.com/sei-eternity/hw-w02d03-dom)
+2|5|[Game of Zones](https://github.com/sei-eternity/warmup-w02-d05-game-of-zones)|[Wireframes](https://github.com/sei-eternity/lesson-week_02-day_02-wireframes-user-stories)|||[Project 1](https://github.com/sei-eternity/project-1-prompt)
+-|-|-|-|-|-|-
+4|1|[Installing Ruby](https://github.com/sei-eternity/lesson-w04d01-ruby/blob/master/install-ruby.md)|[Ruby](https://github.com/sei-eternity/lesson-w04d01-ruby)|[Ruby Array & Hashes](https://github.com/sei-eternity/hw-w04d01-ruby-arrays-hashes)|[Ruby Methods](https://github.com/sei-eternity/lesson-w04d01-ruby-methods)|[]()
+<!-- 4|2|[]()|[]()|||[]()
 4|3|[]()|[]()|||[]()
 4|4|[]()|[]()|||[]()
 4|5|[]()|[]()|||[]() -->
@@ -120,35 +120,40 @@ Curriculum schedule is subject to change at instructor's discretion.
 11|5|[]()|[]()|||[]() -->
 
 ## Projects 
+
+Project Prompts |
+--
+[Project One](https://github.com/sei-eternity/project-1-prompt)|
+
+---
+
 Student Name | Project 1 | Project 2
 -- | -- | --
-Abdullah	Altwaim |
-Abdulrahman	Alrifae |
-Aesha	Alshuraim |
-Ahlam	Almusallam |
-Ahmed	Al-Bahrani |
-Ahmed	AlMeshaal |
-Ashwag	Alrougui |
-Azzam	Alkhaldi |
-Bedour	Alrashed |
-Eman	Yahya |
-Faisal	Alsharari |
-Hanan	Alharbi |
-Hazim	Alblowi |
-Khalid	alarifi |
-Mansour	Almohsen |
-Mo	Asslahi |
-Moodhi	Almutairi |
-Munira	AlShuhail |
-Munirah	almadhi |
-Nada	Alotaibi |
-nawaf	almansour |
-Norah	Alessa |
-Reem	AlHarbi |
-sara	daghustani |
-Sulaiman	Alhabib |
-Turki	Almalki |
-Waleed	Mastour |
+Abdullah	Altwaim | [Tic Tac Toe](https://github.com/aaltwaim/project-1-prompt)
+Abdulrahman	Alrifae | [Tic Tac Toe](https://github.com/AAlrifae/Tic-Tac-Toe)
+Aesha	Alshuraim | [Tic Tac Toe](https://github.com/AishaAlshuraim/Tic-Tac-Toe-Game)
+Ahlam	Almusallam | [Tic Tac Toe](https://github.com/ahlamcpp)
+Ahmed	Al-Bahrani | [Tic Tac Toe](https://github.com/sport996/project-1-prompt)
+Ahmed	AlMeshaal | [Tic Tac Toe](https://github.com/ahmdgenasemply/project-1-prompt)
+Ashwag	Alrougui | [Tic Tac Toe](https://github.com/ASSROUGUI/TicTacToe_project1)
+Azzam	Alkhaldi | [Tic Tac Toe](https://github.com/AlkhaldiAzzam/Project1-Tic-Tac-Toe)
+Bedour	Alrashed | [Tic Tac Toe](https://github.com/Bedour47/tic-tac-toe-game)
+Eman	Yahya | [Tic Tac Toe](https://github.com/Eman-sh/Project-1-Tic-Tac-Toe)
+Faisal	Alsharari | [Tic Tac Toe](https://github.com/FaisalAlsharari/project-1-prompt)
+Hanan	Alharbi | [Tic Tac Toe](https://github.com/Hanan92/project-1-prompt)
+Hazim	Alblowi | [Tic Tac Toe](https://github.com/HazimAlblowi/Tic-Tac-Toe)
+Khalid	alarifi | [Tic Tac Toe](https://github.com/kmalarifi97/tic-tac-toe)
+Mansour	Almohsen | [Tic Tac Toe](https://github.com/mansour789/TicTacToe/tree/master)
+Munira	AlShuhail | [Tic Tac Toe](https://github.com/Muniraks/ProjectOne-TicTacToe)
+Munirah	almadhi | [Tic Tac Toe](https://github.com/Imunirah/Tic-Tac-Toe)
+Nada	Alotaibi | [Tic Tac Toe](https://github.com/Naaadaa/project-1-prompt)
+nawaf	almansour | [Tic Tac Toe](https://github.com/zenger7/Tic-Tac-Toe)
+Norah	Alessa | [Tic Tac Toe](https://github.com/NorahAlessa/Tic-Tac-Toe-game)
+Reem	AlHarbi | [Tic Tac Toe](https://github.com/outsiderem/It-s-A-Tic-Tac-Toe)
+sara	daghustani | [Tic Tac Toe](https://github.com/sara-daghustani/Tic-Tac-toe)
+Sulaiman	Alhabib | [Tic Tac Toe](https://github.com/suldev8/tic-tac-toe)
+Turki	Almalki | [Tic Tac Toe](https://github.com/Turkialmalki/tictactoe)
+Waleed	Mastour | [Tic Tac Toe](https://github.com/wmm3636/tic-tac-toe-game-js)
 
 <!-- ### Group Projects
 
