@@ -87,13 +87,13 @@ Curriculum schedule is subject to change at instructor's discretion.
 4|2|[Ruby Methods](https://github.com/sei-eternity/warmup-w04-d02-ruby-methods)|[Ruby Loops](https://github.com/sei-eternity/lesson-w04d02-ruby-loops)|||[Ruby Arrays](https://github.com/sei-eternity/hw-w04d02-ruby-arrays)
 4|3|[Ruby Hack](https://github.com/sei-eternity/warmup-w04-d03-ruby-hack)|[OOP in Ruby](https://github.com/sei-eternity/lesson-w04d03-ruby-oop)|[Ruby Inheritance](https://github.com/sei-eternity/lesson-w04d03-ruby-inheritance)||[MBTA with classes](https://github.com/sei-eternity/hw-w04d03-ruby-oop)
 4|4|[Shop Class](https://github.com/sei-eternity/warmup-w04d04-classes)|[SQL](https://github.com/sei-eternity/lesson-w04d04-postgresql)|||[]()
-<!-- 4|5|[]()|[]()|||[]() -->
-<!-- -|-|-|-|-|-|-
-5|1|[]()|[]()|||[]()
-5|2|[]()|[]()|||[]()
-5|3|[]()|[]()|||[]()
-5|4|[]()|[]()|||[]()
-5|5|[]()|[]()|||[]() -->
+4|5|NA|[Rails Intro](https://github.com/sei-eternity/lesson-w04d05-rails-intro)|[Ruby Review](https://github.com/sei-eternity/practice-w04d05-ruby)||[]()
+-|-|-|-|-|-|-
+5|1|Algorithms Intro|[Rails One to Many](https://github.com/sei-eternity/lesson-w05d01-rails-muse-one-to-many)|||[]()
+<!-- 5|2|[]()|[]()|||[]() -->
+<!-- 5|3|[]()|[]()|||[]() -->
+<!-- 5|4|[]()|[]()|||[]() -->
+<!-- 5|5|[]()|[]()|||[]() -->
 <!-- -|-|-|-|-|-|-
 7|1|[]()|[]()|||[]()
 7|2|[]()|[]()|||[]()
