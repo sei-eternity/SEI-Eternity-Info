@@ -124,7 +124,7 @@ Curriculum schedule is subject to change at instructor's discretion.
 
 Name | Project 1 | Project 2
 -- | -- | --
-Prompt |[Project One](https://github.com/sei-eternity/project-1-prompt) |
+Prompt |[Project One](https://github.com/sei-eternity/project-1-prompt) | [Project Two](https://github.com/sei-eternity/project-2-prompt)
 Abdullah	Altwaim | [Tic Tac Toe](https://github.com/aaltwaim/project-1-prompt)
 Abdulrahman	Alrifae | [Tic Tac Toe](https://github.com/AAlrifae/Tic-Tac-Toe)
 Aesha	Alshuraim | [Tic Tac Toe](https://github.com/AishaAlshuraim/Tic-Tac-Toe-Game)
