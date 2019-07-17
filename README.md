@@ -87,12 +87,12 @@ Curriculum schedule is subject to change at instructor's discretion.
 4|2|[Ruby Methods](https://github.com/sei-eternity/warmup-w04-d02-ruby-methods)|[Ruby Loops](https://github.com/sei-eternity/lesson-w04d02-ruby-loops)|||[Ruby Arrays](https://github.com/sei-eternity/hw-w04d02-ruby-arrays)
 4|3|[Ruby Hack](https://github.com/sei-eternity/warmup-w04-d03-ruby-hack)|[OOP in Ruby](https://github.com/sei-eternity/lesson-w04d03-ruby-oop)|[Ruby Inheritance](https://github.com/sei-eternity/lesson-w04d03-ruby-inheritance)||[MBTA with classes](https://github.com/sei-eternity/hw-w04d03-ruby-oop)
 4|4|[Shop Class](https://github.com/sei-eternity/warmup-w04d04-classes)|[SQL](https://github.com/sei-eternity/lesson-w04d04-postgresql)|||[]()
-4|5|NA|[Rails Intro](https://github.com/sei-eternity/lesson-w04d05-rails-intro)|[Ruby Review](https://github.com/sei-eternity/practice-w04d05-ruby)||[]()
+4|5||[Rails Intro](https://github.com/sei-eternity/lesson-w04d05-rails-intro)|[Ruby Review](https://github.com/sei-eternity/practice-w04d05-ruby)||[]()
 -|-|-|-|-|-|-
 5|1|Algorithms Intro|[Rails One to Many](https://github.com/sei-eternity/lesson-w05d01-rails-muse-one-to-many)|||[]()
-<!-- 5|2|[]()|[]()|||[]() -->
-<!-- 5|3|[]()|[]()|||[]() -->
-<!-- 5|4|[]()|[]()|||[]() -->
+5|2|[Buddy String](https://github.com/sei-eternity/warmup-w05d02-buddy-strings)|[Lab Rails Guide](https://github.com/sei-eternity/lab-w5d2-rails-review-guide)|[Has and Belongs to Many](https://github.com/sei-eternity/lesson-w05d02-rails-has-and-belongs-to-many-association)|[Has Many Through](https://github.com/sei-eternity/lesson-w05d02-rails-has-many-through-association)|[]()
+5|3|[Recursion](https://github.com/sei-eternity/warmup-w05d03-Recursion) and [Big O](https://github.com/sei-eternity/warmup-w05d03-Big-O)|[Rails Validations](https://github.com/sei-eternity/lesson-w05d03-rails-model-validations)|||[]()
+5|4|[Atbash Cipher](https://github.com/sei-eternity/warmup-w05d04-Atbash)|[]()|||[]()
 <!-- 5|5|[]()|[]()|||[]() -->
 <!-- -|-|-|-|-|-|-
 7|1|[]()|[]()|||[]()
@@ -121,14 +121,10 @@ Curriculum schedule is subject to change at instructor's discretion.
 
 ## Projects 
 
-| Project Prompts |
-| -- |
-| [Project One](https://github.com/sei-eternity/project-1-prompt)|
 
----
-
-Student Name | Project 1 | Project 2
+Name | Project 1 | Project 2
 -- | -- | --
+Prompt |[Project One](https://github.com/sei-eternity/project-1-prompt) |
 Abdullah	Altwaim | [Tic Tac Toe](https://github.com/aaltwaim/project-1-prompt)
 Abdulrahman	Alrifae | [Tic Tac Toe](https://github.com/AAlrifae/Tic-Tac-Toe)
 Aesha	Alshuraim | [Tic Tac Toe](https://github.com/AishaAlshuraim/Tic-Tac-Toe-Game)
