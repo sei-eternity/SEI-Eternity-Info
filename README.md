@@ -89,17 +89,17 @@ Curriculum schedule is subject to change at instructor's discretion.
 4|4|[Shop Class](https://github.com/sei-eternity/warmup-w04d04-classes)|[SQL](https://github.com/sei-eternity/lesson-w04d04-postgresql)|||[]()
 4|5||[Rails Intro](https://github.com/sei-eternity/lesson-w04d05-rails-intro)|[Ruby Review](https://github.com/sei-eternity/practice-w04d05-ruby)||[]()
 -|-|-|-|-|-|-
-5|1|Algorithms Intro|[Rails One to Many](https://github.com/sei-eternity/lesson-w05d01-rails-muse-one-to-many)|||[]()
+5|1|Algorithms Intro|[Rails One to Many](https://github.com/sei-eternity/lesson-w05d01-rails-muse-one-to-many)|||CS Homework
 5|2|[Buddy String](https://github.com/sei-eternity/warmup-w05d02-buddy-strings)|[Lab Rails Guide](https://github.com/sei-eternity/lab-w5d2-rails-review-guide)|[Has and Belongs to Many](https://github.com/sei-eternity/lesson-w05d02-rails-has-and-belongs-to-many-association)|[Has Many Through](https://github.com/sei-eternity/lesson-w05d02-rails-has-many-through-association)|[]()
-5|3|[Recursion](https://github.com/sei-eternity/warmup-w05d03-Recursion) and [Big O](https://github.com/sei-eternity/warmup-w05d03-Big-O)|[Rails Validations](https://github.com/sei-eternity/lesson-w05d03-rails-model-validations)|||[]()
-5|4|[Atbash Cipher](https://github.com/sei-eternity/warmup-w05d04-Atbash)|[]()|||[]()
-<!-- 5|5|[]()|[]()|||[]() -->
-<!-- -|-|-|-|-|-|-
-7|1|[]()|[]()|||[]()
-7|2|[]()|[]()|||[]()
-7|3|[]()|[]()|||[]()
-7|4|[]()|[]()|||[]()
-7|5|[]()|[]()|||[]() -->
+5|3|[Recursion](https://github.com/sei-eternity/warmup-w05d03-Recursion) and [Big O](https://github.com/sei-eternity/warmup-w05d03-Big-O)|[Rails Validations](https://github.com/sei-eternity/lesson-w05d03-rails-model-validations)|||CS Homework
+5|4|[Atbash Cipher](https://github.com/sei-eternity/warmup-w05d04-Atbash)|[Bootstrap](https://github.com/sei-eternity/lesson-w05d04-rails-bootstrap-and-asset-pipeline/blob/master/README.md)|||[]()
+5|5|Rails Review|[]()|||[]()
+-|-|-|-|-|-|-
+7|1|Setting Groups|[JS ES6](https://github.com/sei-eternity/lesson-w07d01-modern-js)|||[]()
+<!-- 7|2|[]()|[]()|||[]() -->
+<!-- 7|3|[]()|[]()|||[]() -->
+<!-- 7|4|[]()|[]()|||[]() -->
+<!-- 7|5|[]()|[]()|||[]() -->
 <!-- -|-|-|-|-|-|-
 8|1|[]()|[]()|||[]()
 8|2|[]()|[]()|||[]()
@@ -125,33 +125,41 @@ Curriculum schedule is subject to change at instructor's discretion.
 Name | Project 1 | Project 2
 -- | -- | --
 Prompt |[Project One](https://github.com/sei-eternity/project-1-prompt) | [Project Two](https://github.com/sei-eternity/project-2-prompt)
-Abdullah	Altwaim | [Tic Tac Toe](https://github.com/aaltwaim/project-1-prompt)
-Abdulrahman	Alrifae | [Tic Tac Toe](https://github.com/AAlrifae/Tic-Tac-Toe)
-Aesha	Alshuraim | [Tic Tac Toe](https://github.com/AishaAlshuraim/Tic-Tac-Toe-Game)
-Ahlam	Almusallam | [Tic Tac Toe](https://github.com/ahlamcpp)
-Ahmed	Al-Bahrani | [Tic Tac Toe](https://github.com/sport996/project-1-prompt)
-Ahmed	AlMeshaal | [Tic Tac Toe](https://github.com/ahmdgenasemply/project-1-prompt)
-Ashwag	Alrougui | [Tic Tac Toe](https://github.com/ASSROUGUI/TicTacToe_project1)
-Azzam	Alkhaldi | [Tic Tac Toe](https://github.com/AlkhaldiAzzam/Project1-Tic-Tac-Toe)
-Bedour	Alrashed | [Tic Tac Toe](https://github.com/Bedour47/tic-tac-toe-game)
-Eman	Yahya | [Tic Tac Toe](https://github.com/Eman-sh/Project-1-Tic-Tac-Toe)
-Faisal	Alsharari | [Tic Tac Toe](https://github.com/FaisalAlsharari/project-1-prompt)
-Hanan	Alharbi | [Tic Tac Toe](https://github.com/Hanan92/project-1-prompt)
-Hazim	Alblowi | [Tic Tac Toe](https://github.com/HazimAlblowi/Tic-Tac-Toe)
-Khalid	alarifi | [Tic Tac Toe](https://github.com/kmalarifi97/tic-tac-toe)
-Mansour	Almohsen | [Tic Tac Toe](https://github.com/mansour789/TicTacToe/tree/master)
-Munira	AlShuhail | [Tic Tac Toe](https://github.com/Muniraks/ProjectOne-TicTacToe)
-Munirah	almadhi | [Tic Tac Toe](https://github.com/Imunirah/Tic-Tac-Toe)
-Nada	Alotaibi | [Tic Tac Toe](https://github.com/Naaadaa/project-1-prompt)
-nawaf	almansour | [Tic Tac Toe](https://github.com/zenger7/Tic-Tac-Toe)
-Norah	Alessa | [Tic Tac Toe](https://github.com/NorahAlessa/Tic-Tac-Toe-game)
-Reem	AlHarbi | [Tic Tac Toe](https://github.com/outsiderem/It-s-A-Tic-Tac-Toe)
-sara	daghustani | [Tic Tac Toe](https://github.com/sara-daghustani/Tic-Tac-toe)
-Sulaiman	Alhabib | [Tic Tac Toe](https://github.com/suldev8/tic-tac-toe)
-Turki	Almalki | [Tic Tac Toe](https://github.com/Turkialmalki/tictactoe)
-Waleed	Mastour | [Tic Tac Toe](https://github.com/wmm3636/tic-tac-toe-game-js)
+Abdullah	Altwaim | [Tic Tac Toe](https://github.com/aaltwaim/project-1-prompt) | [Collectible Auction](https://github.com/aaltwaim/collectibleandauction)
+Abdulrahman	Alrifae | [Tic Tac Toe](https://github.com/AAlrifae/Tic-Tac-Toe) | [Healthy Calender](https://github.com/AAlrifae/gymbuddy50)
+Aesha	Alshuraim | [Tic Tac Toe](https://github.com/AishaAlshuraim/Tic-Tac-Toe-Game) | [Yoga Blog](https://github.com/AishaAlshuraim/YogaCommunity)
+Ahlam	Almusallam | [Tic Tac Toe](https://github.com/ahlamcpp) | [Photo Gallery](https://github.com/ahlamcpp/project2/blob/master/README.md)
+Ahmed	Al-Bahrani | [Tic Tac Toe](https://github.com/sport996/project-1-prompt) | [Project Management](https://github.com/sport996/project_management)
+Ahmed	AlMeshaal | [Tic Tac Toe](https://github.com/ahmdgenasemply/project-1-prompt) | [Lawyer App](https://github.com/AhmedMeshaal/Suit-Cases.git)
+Ashwag	Alrougui | [Tic Tac Toe](https://github.com/ASSROUGUI/TicTacToe_project1) | [Movie Review](https://github.com/ASSROUGUI/Movies_Rating)
+Azzam	Alkhaldi | [Tic Tac Toe](https://github.com/AlkhaldiAzzam/Project1-Tic-Tac-Toe) | [Multimedia Tracker](https://github.com/AlkhaldiAzzam/porject-alpha2)
+Bedour	Alrashed | [Tic Tac Toe](https://github.com/Bedour47/tic-tac-toe-game) | [Instagram](https://github.com/Bedour47/project_rails)
+Eman	Yahya | [Tic Tac Toe](https://github.com/Eman-sh/Project-1-Tic-Tac-Toe) | [Tourism App](https://github.com/Eman-sh/project-2)
+Faisal	Alsharari | [Tic Tac Toe](https://github.com/FaisalAlsharari/project-1-prompt) | [Tutor App](https://github.com/FaisalAlsharari/Explan_it)
+Hanan	Alharbi | [Tic Tac Toe](https://github.com/Hanan92/project-1-prompt) | [Book Review](https://github.com/Hanan92/BookReview-project2)
+Hazim	Alblowi | [Tic Tac Toe](https://github.com/HazimAlblowi/Tic-Tac-Toe) | [Gamer Social Media](https://github.com/HazimAlblowi/social_gamer)
+Khalid	Alarifi | [Tic Tac Toe](https://github.com/kmalarifi97/tic-tac-toe) | [Stadium Booking](https://github.com/kmalarifi97/booking_stadiums)
+Mansour	Almohsen | [Tic Tac Toe](https://github.com/mansour789/TicTacToe/tree/master) | [Produce E-commerce](https://github.com/mansour789/frutiy)
+Munira	AlShuhail | [Tic Tac Toe](https://github.com/Muniraks/ProjectOne-TicTacToe) | [Randomizer](https://github.com/Muniraks/blender.git)
+Munirah	Almadhi | [Tic Tac Toe](https://github.com/Imunirah/Tic-Tac-Toe) | [Top 5](https://github.com/Imunirah/Top-5-app)
+Nada	Alotaibi | [Tic Tac Toe](https://github.com/Naaadaa/project-1-prompt) | [Diary](https://github.com/Naaadaa/Diray)
+Nawaf	Almansour | [Tic Tac Toe](https://github.com/zenger7/Tic-Tac-Toe) | [Book E-Commerce](https://github.com/NawaafAlmansour/nawas-project-2-prompt)
+Norah	Alessa | [Tic Tac Toe](https://github.com/NorahAlessa/Tic-Tac-Toe-game) | [Blog](https://github.com/NorahAlessa/blog-sei)
+Reem	AlHarbi | [Tic Tac Toe](https://github.com/outsiderem/It-s-A-Tic-Tac-Toe) | [Blood Donation App](https://github.com/reemharbi/BloodApp)
+Sara	Daghustani | [Tic Tac Toe](https://github.com/sara-daghustani/Tic-Tac-toe) | [Pet Rescue App](https://github.com/sara-daghustani/pet-finder.git)
+Sulaiman	Alhabib | [Tic Tac Toe](https://github.com/suldev8/tic-tac-toe) | [Loaning App](https://github.com/suldev8/loaner)
+Turki	Almalki | [Tic Tac Toe](https://github.com/Turkialmalki/tictactoe) | [Resume Builder](https://github.com/Turkialmalki/Resumes)
+Waleed	Mastour | [Tic Tac Toe](https://github.com/wmm3636/tic-tac-toe-game-js) | [Shipping App](https://github.com/wmm3636/ship_packages_rails)
 
-<!-- ### Group Projects
+### Group Projects
 
-Group Name| Student One | Student Two | Student Three | Project
----|---|---|---|-- -->
+Group Name| Student One | Student Two | Student Three | Student Four |Project
+---|---|---|---|--|--
+**Angry Nerds**|Waleed	Mastour|Faisal	Alsharari|Norah	Alessa||
+**7RB F-15**|Reem	AlHarbi|Hazim	Alblowi|Bedour	Alrashed||
+**Devarriors**|Sulaiman	Alhabib |Munira	AlShuhail|Munirah	AlMadhi ||
+**MGH**|Azzam	Alkhaldi |Abdullah	Altwaim|Ashwag	Alrougui||
+**The 3 Geeks**|Mansour	Almohsen|Nada	Alotaibi |Khalid	Alarifi ||
+**DCoders**|Ahmed	Al-Bahrani |Turki	Almalki |Ahlam	Almusallam||
+---|Nawaf	AlMansour|Hanan	Alharbi|Aesha	Alshuraim||
+**Code Black**|Sara	Daghustani|Eman	Yahya|Ahmed	AlMeshaal |Abdulrahman	Alrifae 
