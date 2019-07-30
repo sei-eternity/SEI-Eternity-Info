@@ -96,8 +96,8 @@ Curriculum schedule is subject to change at instructor's discretion.
 5|5|Rails Review|[]()|||[]()
 -|-|-|-|-|-|-
 7|1|Setting Groups|[JS ES6](https://github.com/sei-eternity/lesson-w07d01-modern-js)|||[]()
-<!-- 7|2|[]()|[]()|||[]() -->
-<!-- 7|3|[]()|[]()|||[]() -->
+7|2|[The Sieve of Eratosthenes](https://github.com/sei-eternity/warmup-w07d02)|[Classes in JS](https://github.com/sei-eternity/lesson-w07d02-oojs)|||[]()
+7|3||[Group Git](https://github.com/sei-eternity/lesson-w07d03-group-git)|||[]()
 <!-- 7|4|[]()|[]()|||[]() -->
 <!-- 7|5|[]()|[]()|||[]() -->
 <!-- -|-|-|-|-|-|-
@@ -156,10 +156,10 @@ Waleed	Mastour | [Tic Tac Toe](https://github.com/wmm3636/tic-tac-toe-game-js) |
 Group Name| Student One | Student Two | Student Three | Student Four |Project
 ---|---|---|---|--|--
 **Angry Nerds**|Waleed	Mastour|Faisal	Alsharari|Norah	Alessa||
-**7RB F-15**|Reem	AlHarbi|Hazim	Alblowi|Bedour	Alrashed||
+**The Pikmins**|Reem	AlHarbi|Hazim	Alblowi|Bedour	Alrashed||
 **Devarriors**|Sulaiman	Alhabib |Munira	AlShuhail|Munirah	AlMadhi ||
-**MGH**|Azzam	Alkhaldi |Abdullah	Altwaim|Ashwag	Alrougui||
+**AAA+**|Azzam	Alkhaldi |Abdullah	Altwaim|Ashwag	Alrougui||
 **The 3 Geeks**|Mansour	Almohsen|Nada	Alotaibi |Khalid	Alarifi ||
 **DCoders**|Ahmed	Al-Bahrani |Turki	Almalki |Ahlam	Almusallam||
----|Nawaf	AlMansour|Hanan	Alharbi|Aesha	Alshuraim||
+**NHA**|Nawaf	AlMansour|Hanan	Alharbi|Aesha	Alshuraim||
 **Code Black**|Sara	Daghustani|Eman	Yahya|Ahmed	AlMeshaal |Abdulrahman	Alrifae 
