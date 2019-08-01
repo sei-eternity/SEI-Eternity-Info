@@ -98,8 +98,8 @@ Curriculum schedule is subject to change at instructor's discretion.
 7|1|Setting Groups|[JS ES6](https://github.com/sei-eternity/lesson-w07d01-modern-js)|||[]()
 7|2|[The Sieve of Eratosthenes](https://github.com/sei-eternity/warmup-w07d02)|[Classes in JS](https://github.com/sei-eternity/lesson-w07d02-oojs)|||[]()
 7|3||[Group Git](https://github.com/sei-eternity/lesson-w07d03-group-git)|[Axios](https://github.com/sei-eternity/lesson-w07d03-ajax-axios)||[]()
-<!-- 7|4|[]()|[]()|||[]() -->
-<!-- 7|5|[]()|[]()|||[]() -->
+7|4|Interview Questions Trivia|[Axios Code Along](https://github.com/sei-eternity/lesson-w07d04-axios-code-along)|||[]()
+7|5|[Axios and API](https://github.com/sei-eternity/warmup-w07d05-axios-and-api)|[Axios Lab](https://github.com/sei-eternity/lab-w07d05-axios-lab)|||[]()
 <!-- -|-|-|-|-|-|-
 8|1|[]()|[]()|||[]()
 8|2|[]()|[]()|||[]()
