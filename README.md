@@ -93,28 +93,28 @@ Curriculum schedule is subject to change at instructor's discretion.
 5|2|[Buddy String](https://github.com/sei-eternity/warmup-w05d02-buddy-strings)|[Lab Rails Guide](https://github.com/sei-eternity/lab-w5d2-rails-review-guide)|[Has and Belongs to Many](https://github.com/sei-eternity/lesson-w05d02-rails-has-and-belongs-to-many-association)|[Has Many Through](https://github.com/sei-eternity/lesson-w05d02-rails-has-many-through-association)|[]()
 5|3|[Recursion](https://github.com/sei-eternity/warmup-w05d03-Recursion) and [Big O](https://github.com/sei-eternity/warmup-w05d03-Big-O)|[Rails Validations](https://github.com/sei-eternity/lesson-w05d03-rails-model-validations)|||CS Homework
 5|4|[Atbash Cipher](https://github.com/sei-eternity/warmup-w05d04-Atbash)|[Bootstrap](https://github.com/sei-eternity/lesson-w05d04-rails-bootstrap-and-asset-pipeline/blob/master/README.md)|||[]()
-5|5|Rails Review|[]()|||[]()
+5|5|Rails Review|[]()|||[Project Two](https://github.com/sei-eternity/project-2-prompt)
 -|-|-|-|-|-|-
 7|1|Setting Groups|[JS ES6](https://github.com/sei-eternity/lesson-w07d01-modern-js)|||[]()
 7|2|[The Sieve of Eratosthenes](https://github.com/sei-eternity/warmup-w07d02)|[Classes in JS](https://github.com/sei-eternity/lesson-w07d02-oojs)|||[]()
 7|3||[Group Git](https://github.com/sei-eternity/lesson-w07d03-group-git)|[Axios](https://github.com/sei-eternity/lesson-w07d03-ajax-axios)||[]()
 7|4|Interview Questions Trivia|[Axios Code Along](https://github.com/sei-eternity/lesson-w07d04-axios-code-along)|||[]()
 7|5|[Axios and API](https://github.com/sei-eternity/warmup-w07d05-axios-and-api)|[Axios Lab](https://github.com/sei-eternity/lab-w07d05-axios-lab)|||[]()
+-|-|-|-|-|-|-
+8|1|[Research and Instruct](https://github.com/sei-eternity/warmup-w08d01)|[React Intro](https://github.com/sei-eternity/lesson-w08d01-react-intro)|[React Props](https://github.com/sei-eternity/lesson-w08d01-react-intro/blob/master/05-props.md)||CS Homework
+8|2|[JS this](https://github.com/sei-eternity/warmup-w08d02)|[React State](https://github.com/sei-eternity/lesson-w08d02-react-state)|||[]()
+<!-- 8|3|[]()|[]()|||[]() -->
+<!-- 8|4|[]()|[]()|||[]() -->
+<!-- 8|5|[]()|[]()|||[]() -->
 <!-- -|-|-|-|-|-|-
-8|1|[]()|[]()|||[]()
-8|2|[]()|[]()|||[]()
-8|3|[]()|[]()|||[]()
-8|4|[]()|[]()|||[]()
-8|5|[]()|[]()|||[]() -->
+10|1|[]()|[]()|||[]() -->
+<!-- 10|2|[]()|[]()|||[]() -->
+<!-- 10|3|[]()|[]()|||[]() -->
+<!-- 10|4|[]()|[]()|||[]() -->
+<!-- 10|5|[]()|[]()|||[]() -->
 <!-- -|-|-|-|-|-|-
-10|1|[]()|[]()|||[]()
-10|2|[]()|[]()|||[]()
-10|3|[]()|[]()|||[]()
-10|4|[]()|[]()|||[]()
-10|5|[]()|[]()|||[]() -->
-<!-- -|-|-|-|-|-|-
-11|1|[]()|[]()|||[]()
-11|2|[]()|[]()|||[]()
+11|1|[]()|[]()|||[]() -->
+<!-- 11|2|[]()|[]()|||[]()
 11|3|[]()|[]()|||[]()
 11|4|[]()|[]()|||[]()
 11|5|[]()|[]()|||[]() -->
