@@ -102,9 +102,9 @@ Curriculum schedule is subject to change at instructor's discretion.
 7|5|[Axios and API](https://github.com/sei-eternity/warmup-w07d05-axios-and-api)|[Axios Lab](https://github.com/sei-eternity/lab-w07d05-axios-lab)|||[]()
 -|-|-|-|-|-|-
 8|1|[Research and Instruct](https://github.com/sei-eternity/warmup-w08d01)|[React Intro](https://github.com/sei-eternity/lesson-w08d01-react-intro)|[React Props](https://github.com/sei-eternity/lesson-w08d01-react-intro/blob/master/05-props.md)||CS Homework
-8|2|[JS this](https://github.com/sei-eternity/warmup-w08d02)|[React State](https://github.com/sei-eternity/lesson-w08d02-react-state)|||[]()
-<!-- 8|3|[]()|[]()|||[]() -->
-<!-- 8|4|[]()|[]()|||[]() -->
+8|2|[JS this](https://github.com/sei-eternity/warmup-w08d02)|[React State](https://github.com/sei-eternity/lesson-w08d02-react-state)|||[React Film App part 1](https://github.com/sei-eternity/react-film-lab)
+8|3|[React Harry Potter](https://github.com/sei-eternity/warmup-w08d03-react)|[React Functional](https://github.com/sei-eternity/lesson-w08d03-react-functional)|||[React Film App part 2](https://github.com/sei-eternity/react-film-lab)
+<!-- 8|4|[]()|[]()|||[React Film App part 3](https://github.com/sei-eternity/react-film-lab) -->
 <!-- 8|5|[]()|[]()|||[]() -->
 <!-- -|-|-|-|-|-|-
 10|1|[]()|[]()|||[]() -->
@@ -155,11 +155,10 @@ Waleed	Mastour | [Tic Tac Toe](https://github.com/wmm3636/tic-tac-toe-game-js) |
 
 Group Name| Student One | Student Two | Student Three | Student Four |Project
 ---|---|---|---|--|--
-**Angry Nerds**|Waleed	Mastour|Faisal	Alsharari|Norah	Alessa||
-**The Pikmins**|Reem	AlHarbi|Hazim	Alblowi|Bedour	Alrashed||
+**The Pikmin**|Reem	AlHarbi|Hazim	Alblowi|Bedour	Alrashed||
 **Devarriors**|Sulaiman	Alhabib |Munira	AlShuhail|Munirah	AlMadhi ||
 **AAA+**|Azzam	Alkhaldi |Abdullah	Altwaim|Ashwag	Alrougui||
-**The 3 Geeks**|Mansour	Almohsen|Nada	Alotaibi |Khalid	Alarifi ||
-**DCoders**|Ahmed	Al-Bahrani |Turki	Almalki |Ahlam	Almusallam||
+**The 4 Geeks**|Mansour	Almohsen|Nada	Alotaibi |Khalid	Alarifi |Faisal	Alsharari|
+**DCoders**|Ahmed	Al-Bahrani |Turki	Almalki |Ahlam	Almusallam|Norah	Alessa|
 **NHA**|Nawaf	AlMansour|Hanan	Alharbi|Aesha	Alshuraim||
 **Code Black**|Sara	Daghustani|Eman	Yahya|Ahmed	AlMeshaal |Abdulrahman	Alrifae 
