@@ -104,8 +104,8 @@ Curriculum schedule is subject to change at instructor's discretion.
 8|1|[Research and Instruct](https://github.com/sei-eternity/warmup-w08d01)|[React Intro](https://github.com/sei-eternity/lesson-w08d01-react-intro)|[React Props](https://github.com/sei-eternity/lesson-w08d01-react-intro/blob/master/05-props.md)||CS Homework
 8|2|[JS this](https://github.com/sei-eternity/warmup-w08d02)|[React State](https://github.com/sei-eternity/lesson-w08d02-react-state)|||[React Film App part 1](https://github.com/sei-eternity/react-film-lab)
 8|3|[React Harry Potter](https://github.com/sei-eternity/warmup-w08d03-react)|[React Functional](https://github.com/sei-eternity/lesson-w08d03-react-functional)|||[React Film App part 2](https://github.com/sei-eternity/react-film-lab)
-<!-- 8|4|[]()|[]()|||[React Film App part 3](https://github.com/sei-eternity/react-film-lab) -->
-<!-- 8|5|[]()|[]()|||[]() -->
+8|4|[React Cards](https://github.com/sei-eternity/warmup-w08d04)|[React Router](https://github.com/sei-eternity/lesson-w08d04-react-router)|||[React Film App part 3](https://github.com/sei-eternity/react-film-lab)
+<!-- 8|5|[]()|[]()|||[Project Three](https://github.com/sei-eternity/project-3-prompt) -->
 <!-- -|-|-|-|-|-|-
 10|1|[]()|[]()|||[]() -->
 <!-- 10|2|[]()|[]()|||[]() -->
@@ -152,7 +152,7 @@ Turki	Almalki | [Tic Tac Toe](https://github.com/Turkialmalki/tictactoe) | [Resu
 Waleed	Mastour | [Tic Tac Toe](https://github.com/wmm3636/tic-tac-toe-game-js) | [Shipping App](https://github.com/wmm3636/ship_packages_rails)
 
 ### Group Projects
-
+##### [Project Three Prompt](https://github.com/sei-eternity/project-3-prompt)
 Group Name| Student One | Student Two | Student Three | Student Four |Project
 ---|---|---|---|--|--
 **The Pikmin**|Reem	AlHarbi|Hazim	Alblowi|Bedour	Alrashed||
