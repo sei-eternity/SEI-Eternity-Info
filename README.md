@@ -105,7 +105,7 @@ Curriculum schedule is subject to change at instructor's discretion.
 8|2|[JS this](https://github.com/sei-eternity/warmup-w08d02)|[React State](https://github.com/sei-eternity/lesson-w08d02-react-state)|||[React Film App part 1](https://github.com/sei-eternity/react-film-lab)
 8|3|[React Harry Potter](https://github.com/sei-eternity/warmup-w08d03-react)|[React Functional](https://github.com/sei-eternity/lesson-w08d03-react-functional)|||[React Film App part 2](https://github.com/sei-eternity/react-film-lab)
 8|4|[React Cards](https://github.com/sei-eternity/warmup-w08d04)|[React Router](https://github.com/sei-eternity/lesson-w08d04-react-router)|||[React Film App part 3](https://github.com/sei-eternity/react-film-lab)
-<!-- 8|5|[]()|[]()|||[Project Three](https://github.com/sei-eternity/project-3-prompt) -->
+8|5|[React Team Kahoot](https://create.kahoot.it/details/react-js-team-review/63516b50-40dd-42c6-9877-9fc746bf97a5)|[React Unidirectional Flow](https://github.com/sei-eternity/lesson-w08d03-react-functional/blob/master/04-unidirectional-flow.md)|||[Project Three](https://github.com/sei-eternity/project-3-prompt)
 <!-- -|-|-|-|-|-|-
 10|1|[]()|[]()|||[]() -->
 <!-- 10|2|[]()|[]()|||[]() -->
