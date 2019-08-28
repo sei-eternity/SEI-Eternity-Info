@@ -108,9 +108,9 @@ Curriculum schedule is subject to change at instructor's discretion.
 8|5|[React Team Kahoot](https://create.kahoot.it/details/react-js-team-review/63516b50-40dd-42c6-9877-9fc746bf97a5)|[React Unidirectional Flow](https://github.com/sei-eternity/lesson-w08d03-react-functional/blob/master/04-unidirectional-flow.md)|||[Project Three](https://github.com/sei-eternity/project-3-prompt)
  -|-|-|-|-|-|-
 10|1||[Express Intro](https://github.com/sei-eternity/lesson-w10d01-express)|||[]() 
-<!-- 10|2|[]()|[]()|||[]() -->
-<!-- 10|3|[]()|[]()|||[]() -->
-<!-- 10|4|[]()|[]()|||[]() -->
+10|2|[Hamlet with Express](https://github.com/sei-eternity/warmup-w10d02-hamlet-with-express)|[Intro to Mongo](https://github.com/sei-eternity/lesson-w10d02-mongo-mongoose-intro/blob/master/intro_to_mongo.md)|[Intro to Mongoose](https://github.com/sei-eternity/lesson-w10d02-mongo-mongoose-intro/blob/master/intro_to_mongoose.md)||[Mongoose Intro HW](https://github.com/sei-eternity/lab-w10d02-mongo-mongoose-intro)
+10|3|[Mongoose Eternity](https://github.com/sei-eternity/warmup-w10d03-eternity)|[Mongoose/Express](https://github.com/sei-eternity/lesson-w10d03-crud-mongoose-express)|||[]()
+10|4|[Mongoose Carmen](https://github.com/sei-eternity/warmup-w10d04-carmen)|[Mongoose Associations](https://github.com/sei-eternity/lesson-w10d04-mongoose-associations)|||[]()
 <!-- 10|5|[]()|[]()|||[]() -->
 <!-- -|-|-|-|-|-|-
 11|1|[]()|[]()|||[]() -->
