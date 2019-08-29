@@ -111,7 +111,7 @@ Curriculum schedule is subject to change at instructor's discretion.
 10|2|[Hamlet with Express](https://github.com/sei-eternity/warmup-w10d02-hamlet-with-express)|[Intro to Mongo](https://github.com/sei-eternity/lesson-w10d02-mongo-mongoose-intro/blob/master/intro_to_mongo.md)|[Intro to Mongoose](https://github.com/sei-eternity/lesson-w10d02-mongo-mongoose-intro/blob/master/intro_to_mongoose.md)||[Mongoose Intro HW](https://github.com/sei-eternity/lab-w10d02-mongo-mongoose-intro)
 10|3|[Mongoose Eternity](https://github.com/sei-eternity/warmup-w10d03-eternity)|[Mongoose/Express](https://github.com/sei-eternity/lesson-w10d03-crud-mongoose-express)|||[]()
 10|4|[Mongoose Carmen](https://github.com/sei-eternity/warmup-w10d04-carmen)|[Mongoose Associations](https://github.com/sei-eternity/lesson-w10d04-mongoose-associations)|||[]()
-<!-- 10|5|[]()|[]()|||[]() -->
+10|5|Scavenger Hunt|[Express with React](https://github.com/sei-eternity/blogy)|||[Lightening Talk](https://github.com/sei-eternity/lightning-talk)
 <!-- -|-|-|-|-|-|-
 11|1|[]()|[]()|||[]() -->
 <!-- 11|2|[]()|[]()|||[]()
@@ -151,7 +151,7 @@ Sulaiman	Alhabib | [Tic Tac Toe](https://github.com/suldev8/tic-tac-toe) | [Loan
 Turki	Almalki | [Tic Tac Toe](https://github.com/Turkialmalki/tictactoe) | [Resume Builder](https://github.com/Turkialmalki/Resumes)
 Waleed	Mastour | [Tic Tac Toe](https://github.com/wmm3636/tic-tac-toe-game-js) | [Shipping App](https://github.com/wmm3636/ship_packages_rails)
 
-### Group Projects
+### Group Project
 ##### [Project Three Prompt](https://github.com/sei-eternity/project-3-prompt)
 Group Name| Student One | Student Two | Student Three | Student Four |Project
 ---|---|---|---|--|--
