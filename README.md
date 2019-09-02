@@ -112,12 +112,11 @@ Curriculum schedule is subject to change at instructor's discretion.
 10|3|[Mongoose Eternity](https://github.com/sei-eternity/warmup-w10d03-eternity)|[Mongoose/Express](https://github.com/sei-eternity/lesson-w10d03-crud-mongoose-express)|||[]()
 10|4|[Mongoose Carmen](https://github.com/sei-eternity/warmup-w10d04-carmen)|[Mongoose Associations](https://github.com/sei-eternity/lesson-w10d04-mongoose-associations)|||[]()
 10|5|Scavenger Hunt|[Express with React](https://github.com/sei-eternity/blogy)|||[Lightening Talk](https://github.com/sei-eternity/lightning-talk)
-<!-- -|-|-|-|-|-|-
-11|1|[]()|[]()|||[]() -->
-<!-- 11|2|[]()|[]()|||[]()
-11|3|[]()|[]()|||[]()
-11|4|[]()|[]()|||[]()
-11|5|[]()|[]()|||[]() -->
+-|-|-|-|-|-|-
+11|1|Data Structure|[Passport Auth](https://github.com/sei-eternity/lesson-w11d01-express-auth-with-passport)|||[]()
+<!-- 11|2|[]()|[React Native Extra Session](https://github.com/usmanbashir/introduction-to-reactnative-workshop/tree/completed)|||[]() -->
+<!-- 11|3|[]()|[]()|||[]() -->
+
 
 ## Projects 
 
